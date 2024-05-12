@@ -1,0 +1,12 @@
+{
+  "name": "MakeCode-Trig-Modes",
+  "description": "This extention adds the ability to use degrees with trigonometry blocks.",
+  "version": "1.0.0",
+  "targetVersions": ["arcade"],
+  "dependencies": {},
+  "files": [
+    "MakeCode-Trig-Functions.ts"
+  ],
+  "testFiles": [],
+  "preferredEditor": "blocks"
+}
