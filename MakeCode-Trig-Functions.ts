@@ -1,3 +1,4 @@
+//% color=#49EE1B icon="\uf151" block="Trig Modes"
 namespace TrigModes {
     let pi = 0;
 
